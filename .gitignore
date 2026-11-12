@@ -1,0 +1,23 @@
+
+*.log
+Saved/Logs/cef3.log
+Saved/Logs/TargetTakedown.log
+Saved/webcache_6613/Default/DIPS
+Saved/webcache_6613/Default/Favicons
+Saved/webcache_6613/Default/History
+Saved/webcache_6613/Default/History-journal
+Saved/webcache_6613/Default/Local Storage/leveldb/000003.log
+Saved/webcache_6613/Default/Local Storage/leveldb/LOG
+Saved/webcache_6613/Default/Network/Cookies
+Saved/webcache_6613/Default/Network/Cookies-journal
+Saved/webcache_6613/Default/Session Storage/000003.log
+Saved/webcache_6613/Default/Session Storage/LOG
+Saved/webcache_6613/Default/SharedStorage-wal
+Saved/webcache_6613/Default/Site Characteristics Database/000007.ldb
+Saved/webcache_6613/Default/Site Characteristics Database/000008.ldb
+Saved/webcache_6613/Default/Site Characteristics Database/LOG
+Saved/webcache_6613/Default/Site Characteristics Database/MANIFEST-000001
+Saved/webcache_6613/first_party_sets.db
+Saved/webcache_6613/lockfile
+Saved/webcache_6613/segmentation_platform/ukm_db
+Saved/webcache_6613/segmentation_platform/ukm_db-journal
